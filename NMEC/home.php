@@ -64,8 +64,5 @@ class="custom-radio" required>&nbsp; &nbsp;Student
      <input type="submit" name="login" value="LOGIN">
     </form>
  </div>
- <footer>
-    <h4>SK</h4>
-</footer>
 </body>
 </html>
